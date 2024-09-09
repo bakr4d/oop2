@@ -11,6 +11,11 @@ package com.mycompany.githubnetbeans;
 public class GithubNetbeans {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+            
+        Boy b1 =new Boy (true,"Mohamed");;
+        
+       Girl g1 =new Girl(true,"ay haga",160,"A-");
+     
+         
     }
 }
